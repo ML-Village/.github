@@ -1,4 +1,13 @@
-## Hi there 👋. We are building a framework for building AI agents for On-Chain games.
+## Hi there 👋.
+
+🍃We are building a framework for building AI agents for On-Chain games.🍃
+
+** Short-term roadmap **
+- ✨ Build a turn-based game in Dojo + Starknet for connection to AI agents.
+- 🤖 Build AI agent connectors and env objects.
+- ⚙️ Create Framework to NFT agent models
+- 🏪 Create Marketplace for Agent Creators to list models
+- 🌱 Seed the first few on-chain Bot v Bot games
 
 <!--
 
